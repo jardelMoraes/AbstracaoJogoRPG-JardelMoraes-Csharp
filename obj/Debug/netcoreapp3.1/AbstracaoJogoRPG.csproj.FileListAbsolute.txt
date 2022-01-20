@@ -1,0 +1,13 @@
+C:\Users\Windows 10\Documents\GitHub\AbstracaoJogoRPG-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\AbstracaoJogoRPG.exe
+C:\Users\Windows 10\Documents\GitHub\AbstracaoJogoRPG-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\AbstracaoJogoRPG.deps.json
+C:\Users\Windows 10\Documents\GitHub\AbstracaoJogoRPG-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\AbstracaoJogoRPG.runtimeconfig.json
+C:\Users\Windows 10\Documents\GitHub\AbstracaoJogoRPG-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\AbstracaoJogoRPG.runtimeconfig.dev.json
+C:\Users\Windows 10\Documents\GitHub\AbstracaoJogoRPG-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\AbstracaoJogoRPG.dll
+C:\Users\Windows 10\Documents\GitHub\AbstracaoJogoRPG-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\AbstracaoJogoRPG.pdb
+C:\Users\Windows 10\Documents\GitHub\AbstracaoJogoRPG-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\AbstracaoJogoRPG.csprojAssemblyReference.cache
+C:\Users\Windows 10\Documents\GitHub\AbstracaoJogoRPG-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\AbstracaoJogoRPG.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Documents\GitHub\AbstracaoJogoRPG-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\AbstracaoJogoRPG.AssemblyInfo.cs
+C:\Users\Windows 10\Documents\GitHub\AbstracaoJogoRPG-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\AbstracaoJogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\GitHub\AbstracaoJogoRPG-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\AbstracaoJogoRPG.dll
+C:\Users\Windows 10\Documents\GitHub\AbstracaoJogoRPG-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\AbstracaoJogoRPG.pdb
+C:\Users\Windows 10\Documents\GitHub\AbstracaoJogoRPG-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\AbstracaoJogoRPG.genruntimeconfig.cache
