@@ -25,6 +25,5 @@ abrir o terminal do VScode e digitar "dotnet run"
 
 # Autor
 
-Jardel Moraes - com base no projeto de <a href = "https://github.com/henriquebenjamim/rpg-csharp-DIO">Henrique Benjamim</a> 
-
+Jardel Moraes 
 https://www.linkedin.com/in/jardel-moraes/
