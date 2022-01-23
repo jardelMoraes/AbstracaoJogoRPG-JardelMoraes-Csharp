@@ -14,7 +14,7 @@ Pré-requisitos: - Visual Studio code; - Extensão c# (da microsoft)
 
 ```bash
 # clonar repositório
-git clone https://github.com/henriquebenjamim/rpg-csharp-DIO.git
+git clone https://github.com/jardelMoraes/AbstracaoJogoRPG-JardelMoraes-Csharp.git
 
 # entrar na pasta do projeto back end
 utilizar o git bash como cmd na pasta e, após isso, digitar ". code" 
